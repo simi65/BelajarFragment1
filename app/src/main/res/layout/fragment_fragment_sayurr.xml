@@ -9,6 +9,16 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:text="Simi56" />
+    <TextView
+        android:background="#ff0004ff"
+        android:gravity="bottom"
+        android:id="@+id/textView2"
+        android:layout_height="148dp"
+        android:layout_width="127dp"
+        android:text="Contoh Text Dua"
+
+        android:layout_gravity="left|top" />
+    
 
 </FrameLayout>
